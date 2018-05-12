@@ -1,0 +1,33 @@
+_repo: Petite-M-re_26827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pressensé, E. de, Mme.
+    aliases:
+    - Pressense, Elise Francoise Louise du Plessis-Gouret de, Mme.
+    - Pressensé, Elise Françoise Louise du Plessis-Gouret de, Mme.
+    - De Pressensé, E., Mme.
+    - Du Plessis-Gouret, Elise-Françoise-Louise
+    birthdate: 1826
+    deathdate: 1901
+    gutenberg_agent_id: '32262'
+    url: http://www.gutenberg.org/2009/agents/32262
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26827'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PQ'
+title: Petite Mère
+url: http://www.gutenberg.org/ebooks/26827
